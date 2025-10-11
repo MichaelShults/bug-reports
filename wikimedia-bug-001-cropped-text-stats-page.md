@@ -6,7 +6,7 @@
 Stats page for english wikipedia has cropped text  
 
 ## Description
-In the "Page views by country" box, the text for "United States of America" is displayed as "United States of A" at any zoom level in the range 0-125%
+In the "Page views by country" box, the text for "United States of America" is displayed as "United States of A" at any zoom level in the range 25-125%
 
 ## Steps to Reproduce
 1. Navigate to `https://stats.wikimedia.org/#/en.wikipedia.org`  
